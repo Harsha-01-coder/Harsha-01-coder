@@ -66,14 +66,14 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Harsha-01-coder&show_icons=true&theme=radium&hide_border=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api?username=Harsha-01-coder&show_icons=true&theme=radium&hide_border=true" width="48%" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harsha-01-coder&theme=radium&hide_border=true" width="48%" alt="GitHub Streak" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsha-01-coder&layout=compact&theme=radium&hide_border=true" width="50%" alt="Top Languages" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Harsha-01-coder&layout=compact&theme=radium&hide_border=true" width="50%" alt="Top Languages" />
 </div>
 
 ---

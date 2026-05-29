@@ -16,8 +16,26 @@
 - 🔭 I’m currently working on an **Adaptive Reinforcement Learning-Based CPU Scheduler**
 - 🌱 I’m constantly exploring **Machine Learning (PPO, RL)**, **Systems Architecture**, and **High-Performance Backends**
 - 💬 Ask me about **Python, FastAPI, React, or Deep Learning**
-- 📫 How to reach me: **[Add your email or LinkedIn link here]**
 - ⚡ Fun fact: I love bridging the gap between low-level OS mechanics and modern AI!
+
+## 🌐 Socials
+<p align="left">
+  <a href="https://linkedin.com/in/harsha-c-55a1392b9" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:your.email@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</p>
 
 ---
 
@@ -66,14 +84,14 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=Harsha-01-coder&show_icons=true&theme=radium&hide_border=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harsha-01-coder&theme=radium&hide_border=true" width="48%" alt="GitHub Streak" />
+  <img src="https://github-stats-extended.vercel.app/api?username=Harsha-01-coder&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harsha-01-coder&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Harsha-01-coder&layout=compact&theme=radium&hide_border=true" width="50%" alt="Top Languages" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Harsha-01-coder&layout=compact&theme=tokyonight&hide_border=true" width="50%" alt="Top Languages" />
 </div>
 
 ---
